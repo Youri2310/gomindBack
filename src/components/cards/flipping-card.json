@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_cards_flipping_cards",
+  "info": {
+    "displayName": "Flipping-Card"
+  },
+  "options": {},
+  "attributes": {
+    "Front_text": {
+      "type": "string"
+    },
+    "Back_text": {
+      "type": "string"
+    }
+  }
+}

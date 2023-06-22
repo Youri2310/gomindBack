@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "nous_rejoindres",
+  "info": {
+    "singularName": "nous-rejoindre",
+    "pluralName": "nous-rejoindres",
+    "displayName": "Nous-Rejoindre"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "CarrouselLanguage": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.carrousel"
+    }
+  }
+}

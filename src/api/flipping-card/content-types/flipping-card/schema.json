@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "flipping_cards",
+  "info": {
+    "singularName": "flipping-card",
+    "pluralName": "flipping-cards",
+    "displayName": "Flipping-Card"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "front_text": {
+      "type": "string"
+    },
+    "back_text": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fixed_cards",
+  "info": {
+    "singularName": "fixed-card",
+    "pluralName": "fixed-cards",
+    "displayName": "Fixed-Card"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Texte": {
+      "type": "string"
+    }
+  }
+}

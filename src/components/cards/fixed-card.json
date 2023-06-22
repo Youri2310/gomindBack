@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_cards_fixed_cards",
+  "info": {
+    "displayName": "Fixed-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    }
+  }
+}

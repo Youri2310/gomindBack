@@ -1,0 +1,51 @@
+{
+  "kind": "singleType",
+  "collectionName": "adns",
+  "info": {
+    "singularName": "adn",
+    "pluralName": "adns",
+    "displayName": "ADN",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Carrousel1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.carrousel"
+    },
+    "Carrousel2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.carrousel"
+    },
+    "Carrousel3": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.carrousel"
+    },
+    "Image_Carrousel1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.image-carrousel"
+    },
+    "image_random_carrousel": {
+      "type": "component",
+      "repeatable": true,
+      "component": "carrousel.image-random-carrousel"
+    },
+    "FixedCard": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.fixed-card"
+    },
+    "FlippingCard": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.flipping-card"
+    }
+  }
+}
